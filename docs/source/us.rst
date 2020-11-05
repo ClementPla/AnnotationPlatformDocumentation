@@ -5,7 +5,7 @@ LIV4D
 Laboratoire d'Imagerie et de Vision 4D, Polytechnique Montréal.
 
 
-Our publications related to the project
+Publications related to the project
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * Peskine, Y., Boucher, M. C., & Cheriet, F. (2020, June). An Interpretable Data-Driven Score for the Assessment of Fundus Images Quality. In International Conference on Image Analysis and Recognition (pp. 325-331). Springer, Cham.
 * Playout, C., Duval, R., & Cheriet, F. (2019). A novel weakly supervised multitask architecture for retinal lesions segmentation on fundus images. IEEE transactions on medical imaging, 38(10), 2434-2444.
