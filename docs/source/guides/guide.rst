@@ -1,10 +1,9 @@
-Step-by-step guide
+Guide
 ==================
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: UI elements:
    
    logging
    gallery

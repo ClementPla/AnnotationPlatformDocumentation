@@ -1,8 +1,10 @@
 Getting Started
 ===============
+
 The Annotation Platform is a tool developed by the LIV4D_.
 
 .. _LIV4D: https://www.polymtl.ca/liv4d/
+
 It provides many features to facilitate the labelling process of fundus images including:
 
 * An access directly from your web-browser (no installation required)
@@ -13,6 +15,7 @@ It provides many features to facilitate the labelling process of fundus images i
 
 Quick start video
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 This video will help you get started with the annotation tool in less than ten minutes.
 
 .. raw:: html

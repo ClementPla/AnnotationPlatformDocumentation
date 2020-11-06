@@ -109,6 +109,18 @@ rst_prolog = '''
 .. |flip| image:: /images/flip.png
   :height: {0}
   :alt: Flip icon
+
+.. |browse| image:: /images/browseImage.png
+  :height: {0}
+  :alt: Browse Image icon
+
+.. |bug_report| image:: /images/bug_report.png
+  :height: {0}
+  :alt: Bug Report icon
+
+.. |hierarchical_mode| image:: /images/hierarchicalMode.png
+  :height: {0}
+  :alt: Hierarchical Mode icon
 '''.format(str(image_height))
 # -- Options for HTML output -------------------------------------------------
 

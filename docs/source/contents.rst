@@ -9,6 +9,8 @@ Welcome to the Retinal Annotation Project's documentation!
 What's our project?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+TODO: Describe our research objective and methodology.
+
 First steps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -23,14 +25,15 @@ First steps
 * **Looking for a shortcut?**
     :doc:`Lists of shortcuts </guides/shortcuts>`
 
-Indices
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    
    index
         
 Want to know more about our team?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    :doc:`LIV4D's presentation </us>`
+    :doc:`LIV4D</us>`
+
+    :doc:`Participants to the project </us>`
