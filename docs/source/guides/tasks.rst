@@ -5,15 +5,15 @@ The platform is built around the concept of *assigned tasks*. This core idea all
 
 .. note::
 
-    A task is defined as an ensemble of images and biomarkers attributed to an user. Multiple tasks can be assigned to the same user an image can the object of multiple tasks.
+    A task is defined as an ensemble of images and biomarkers attributed to an user. Multiple tasks can be assigned to the same user and an image can the object of multiple tasks.
 
 .. figure:: ../images/task.png
    :width: 800
    
-   A list of all the images attributed to the user. Here, each image is associated to two tasks.
+   A list of all the images assigned to the user. Here, each image is associated to two tasks.
 
 
-The task panel works in a similar way as the gallery excepts that it only displays the image belonging to a task that has been attributed to you. Initially, all images are marked as **Incomplete**, but once all tasks associated to the image are done, it is moved in the complete list. You can still open it in the editor and modify your revision.
+The task panel works in a similar way as the gallery excepts that it only displays the image belonging to a task that has been assigned to you. Initially, all images are marked as **Incomplete**, but once all tasks associated to the image are done, the image is moved in the **Complete** list. You can still open it in the editor and modify your revision.
 
 .. figure:: ../images/completedTaskList.png
    :width: 800
